@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import Footer from './Footer';
 
 class App extends Component {
   constructor(props) {
@@ -115,6 +116,7 @@ class App extends Component {
         <div id="btns">
           <button onClick = {this.reset.bind(this)}>Reset</button>
         </div>
+        <Footer />
       </div>
     );
   }
