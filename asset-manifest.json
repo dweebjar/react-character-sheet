@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-character-sheet/static/css/main.e99cc461.chunk.css",
-  "main.js": "/react-character-sheet/static/js/main.3064fcdc.chunk.js",
-  "main.js.map": "/react-character-sheet/static/js/main.3064fcdc.chunk.js.map",
+  "main.css": "/react-character-sheet/static/css/main.19b2d6e2.chunk.css",
+  "main.js": "/react-character-sheet/static/js/main.5ccfd26f.chunk.js",
+  "main.js.map": "/react-character-sheet/static/js/main.5ccfd26f.chunk.js.map",
   "runtime~main.js": "/react-character-sheet/static/js/runtime~main.02683298.js",
   "runtime~main.js.map": "/react-character-sheet/static/js/runtime~main.02683298.js.map",
-  "static/js/2.ba35ec61.chunk.js": "/react-character-sheet/static/js/2.ba35ec61.chunk.js",
-  "static/js/2.ba35ec61.chunk.js.map": "/react-character-sheet/static/js/2.ba35ec61.chunk.js.map",
+  "static/js/2.7c07c442.chunk.js": "/react-character-sheet/static/js/2.7c07c442.chunk.js",
+  "static/js/2.7c07c442.chunk.js.map": "/react-character-sheet/static/js/2.7c07c442.chunk.js.map",
   "index.html": "/react-character-sheet/index.html",
-  "precache-manifest.05f2a51ec878e2358855e6d10058886d.js": "/react-character-sheet/precache-manifest.05f2a51ec878e2358855e6d10058886d.js",
+  "precache-manifest.a582e1dd6cb895463309e0fceeba878b.js": "/react-character-sheet/precache-manifest.a582e1dd6cb895463309e0fceeba878b.js",
   "service-worker.js": "/react-character-sheet/service-worker.js",
-  "static/css/main.e99cc461.chunk.css.map": "/react-character-sheet/static/css/main.e99cc461.chunk.css.map"
+  "static/css/main.19b2d6e2.chunk.css.map": "/react-character-sheet/static/css/main.19b2d6e2.chunk.css.map"
 }
