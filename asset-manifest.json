@@ -1,13 +1,13 @@
 {
-  "main.css": "/github.io/react-character-sheet/static/css/main.e99cc461.chunk.css",
-  "main.js": "/github.io/react-character-sheet/static/js/main.a01ab6fc.chunk.js",
-  "main.js.map": "/github.io/react-character-sheet/static/js/main.a01ab6fc.chunk.js.map",
-  "runtime~main.js": "/github.io/react-character-sheet/static/js/runtime~main.3b30ac1e.js",
-  "runtime~main.js.map": "/github.io/react-character-sheet/static/js/runtime~main.3b30ac1e.js.map",
-  "static/js/2.ba35ec61.chunk.js": "/github.io/react-character-sheet/static/js/2.ba35ec61.chunk.js",
-  "static/js/2.ba35ec61.chunk.js.map": "/github.io/react-character-sheet/static/js/2.ba35ec61.chunk.js.map",
-  "index.html": "/github.io/react-character-sheet/index.html",
-  "precache-manifest.c2cbc0b251b41d886c7cee29ae51b879.js": "/github.io/react-character-sheet/precache-manifest.c2cbc0b251b41d886c7cee29ae51b879.js",
-  "service-worker.js": "/github.io/react-character-sheet/service-worker.js",
-  "static/css/main.e99cc461.chunk.css.map": "/github.io/react-character-sheet/static/css/main.e99cc461.chunk.css.map"
+  "main.css": "/react-character-sheet/static/css/main.e99cc461.chunk.css",
+  "main.js": "/react-character-sheet/static/js/main.3064fcdc.chunk.js",
+  "main.js.map": "/react-character-sheet/static/js/main.3064fcdc.chunk.js.map",
+  "runtime~main.js": "/react-character-sheet/static/js/runtime~main.02683298.js",
+  "runtime~main.js.map": "/react-character-sheet/static/js/runtime~main.02683298.js.map",
+  "static/js/2.ba35ec61.chunk.js": "/react-character-sheet/static/js/2.ba35ec61.chunk.js",
+  "static/js/2.ba35ec61.chunk.js.map": "/react-character-sheet/static/js/2.ba35ec61.chunk.js.map",
+  "index.html": "/react-character-sheet/index.html",
+  "precache-manifest.28694f8a2223e50d7ddd63ee2677518a.js": "/react-character-sheet/precache-manifest.28694f8a2223e50d7ddd63ee2677518a.js",
+  "service-worker.js": "/react-character-sheet/service-worker.js",
+  "static/css/main.e99cc461.chunk.css.map": "/react-character-sheet/static/css/main.e99cc461.chunk.css.map"
 }
